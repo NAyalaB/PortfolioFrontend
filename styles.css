@@ -319,5 +319,7 @@ transform: rotate(160deg);
     width: 70px;
     height: 70px;
     position: relative;
-    top: -132px;
+    top: -134px;
+    left: 4px;
 }
+
